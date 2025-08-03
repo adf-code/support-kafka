@@ -4,3 +4,10 @@
 .DS_Store
 Thumbs.db
 
+# VSCode
+.vscode/
+
+# JetBrains (GoLand, IntelliJ)
+.idea/
+*.iml
+
